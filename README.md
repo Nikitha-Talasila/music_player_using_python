@@ -1,1 +1,4 @@
-# music_player_using_python
+# Music Player using Python
+
+A Music player designed using python's tkinter module
+
